@@ -26,7 +26,7 @@ wheels/
 MANIFEST
 
 # PyInstaller
-*.manifest
+*.xmanifest
 *.spec
 
 # Installer logs
@@ -115,9 +115,6 @@ dmypy.json
 *.model
 *.weights
 data.zip
-data/
-dataset/
-datasets/
 *.tfrecord
 *.tfrecords
 
